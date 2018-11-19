@@ -1,8 +1,6 @@
-## Synchronized 的底层实现原理
+# Synchronized 的底层实现原理 {docsify-ignore}
 
-
-
-### 1. Synchronized 的代码实现
+## 1. Synchronized 的代码实现
 
 - 修饰代码块
 
@@ -71,7 +69,7 @@
 
   
 
-### 2.Synchronized 的原理
+## 2.Synchronized 的原理
 
  **Synchronized**用在多线程并发中，避免多个线程对共享资源的访问造成的可见性和原子性等安全问题。
 
@@ -93,7 +91,7 @@
 
    
 
-### 3. Synchronized 的底层实现
+## 3. Synchronized 的底层实现
 
  我们通常用`Synchronized`去实现同步，实现原理就是当多个线程访问共享资源时，使用**synchronized**能够让线程在访问共享资源前要先经过一到屏障，这道屏障就是对应的对象锁或者是类锁。线程要先获得锁，才能访问共享资源，而每次锁只能给一个线程，通过锁的运用去实现同步。
 
