@@ -1,2 +1,8 @@
-# LNote
-一些整理笔记 ！
+# LNotes
+
+一些学习的笔记整理
+
+make it your own
+
+
+
