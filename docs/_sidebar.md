@@ -5,7 +5,7 @@
   - [基本数据之整型类型范围](java/TypeRange)
   - [对象的创建过程](/java/ObjectCreate)
   - [Java 的多态](/java/JavaPolymorphic)
-  - **Collection**
+- **Collection**
     - [LinkedList](/collection/LinkedList)
 - **Jvm**
   - [Java 内存结构](/jvm/JvmMemoryStructure)
